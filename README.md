@@ -46,12 +46,5 @@
   </p>
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/Gioxaa"><img alt="Gioxaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gioxaa&custom_title=Gioxaa's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
-
-<br/>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?gioxaa=ffflabs)]
 
