@@ -16,7 +16,7 @@
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 
-- 👋 Hi, I’m Gioxa
+- 👋 Hi, I’m Gioxaa
 - 💼 I'm a Junior Backend Developer specializing in Python and JavaScript
 - 💬 Talk to me about backend development, freelancing opportunities, or tech in general
 - 👯 I’m looking to collaborate on backend software engineering projects
@@ -38,10 +38,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gioxa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gioxa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gioxaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
     <br/>
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gioxa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="gioxa" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Gioxaa" height="192px"/>
     <br/>
   </p>
 </details>
@@ -49,7 +49,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/gioxa"><img alt="Gioxa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gioxa&custom_title=Gioxa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/Gioxaa"><img alt="Gioxaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Gioxaa&custom_title=Gioxaa's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
