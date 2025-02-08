@@ -34,7 +34,7 @@
 
 <h2> GitHub Stats (Expand to View) <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
-<details> 
+
 <summary> <b>💻 GitHub Profile Stats</b> </summary>
   <br/>
   <p align="center">
@@ -44,5 +44,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Gioxaa" height="192px"/>
     <br/>
   </p>
-</details>
+
 
