@@ -35,7 +35,7 @@
 <h2> GitHub Stats (Expand to View) <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<b>💻 GitHub Profile Stats</b>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gioxaa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
