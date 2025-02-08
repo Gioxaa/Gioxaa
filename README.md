@@ -36,20 +36,8 @@
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Gioxaa's GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=dark" 
-      height="192px"
-      style="display: inline-block; margin-right: 10px;"
-    />
-  </a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="Gioxaa" 
-    height="192px"
-    style="display: inline-block;"
-  />
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=dark" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" height="192px"/>
 </p>
 
