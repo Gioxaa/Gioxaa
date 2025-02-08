@@ -36,8 +36,14 @@
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
-<p align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=dark" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" height="192px"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=dark" height="192px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" height="192px"/>
+    </td>
+  </tr>
+</table>
 
