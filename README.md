@@ -1,10 +1,10 @@
-<h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> root@gioxaa:~$ ./welcome.sh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align='center'>
 </p>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Junior+Backend+Developer;I+specialize+in+Python+and+JavaScript" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=It+works+on+my+machine...;Specialize+in+creating+bugs+and+fixing+them+later:);Git+push+--force+and+pray (atually)" />
   </a>
 </p>
 
@@ -18,17 +18,27 @@
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 
-- 👋 Hi, I’m Gioxaa
-- 💼 I'm a Junior Backend Developer specializing in Python and JavaScript
-- 💬 Talk to me about backend development, freelancing opportunities, or tech in general
-- 👯 I’m looking to collaborate on backend software engineering projects
+- 👋 **Yo, I’m Gioxaa**
+- 🤖 I build **Discord Bots** & **Automation Scripts** that actually work
+- 🔧 **TypeScript**, **JS**, & **Python** are my tools for bending the API to my will
+- 💬 Hit me up for **custom bots**, **scrapers**, or **automation tools**
+- 👯 Always game for cool **collabs** or building fun stuff together
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
-<a href="https://www.python.org" target="_blank">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 <a href="https://www.javascript.com" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a href="https://www.python.org" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
@@ -39,7 +49,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=dark" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" height="192px"/>
@@ -47,3 +57,6 @@
   </tr>
 </table>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/Gioxaa/Gioxaa/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
