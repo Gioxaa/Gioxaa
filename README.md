@@ -18,6 +18,8 @@
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 
+<br>
+
 - 👋 **Yo, I’m Gioxaa**
 - 🤖 I build **Discord Bots** & **Automation Scripts** that actually work
 - 🔧 **TypeScript**, **JS**, & **Python** are my tools for bending the API to my will
@@ -46,16 +48,18 @@
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=dark" height="192px"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gioxaa&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gioxaa&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="192px"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
