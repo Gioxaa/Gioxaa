@@ -61,7 +61,7 @@
   </table>
 </div>
 
-<h2> Tokenscale Stats </h2>
+## Tokenscale Stats
 [![Tokscale Stats](https://tokscale.ai/api/embed/Gioxaa/svg?sort=cost)](https://tokscale.ai/u/Gioxaa)
 
 <br>
