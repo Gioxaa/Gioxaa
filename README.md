@@ -47,6 +47,7 @@
 
 <h2> GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
 
+
 <div align="center">
   <table>
     <tr>
@@ -59,6 +60,9 @@
     </tr>
   </table>
 </div>
+
+<h2> Tokenscale Stats </h2>
+[![Tokscale Stats](https://tokscale.ai/api/embed/Gioxaa/svg?sort=cost)](https://tokscale.ai/u/Gioxaa)
 
 <br>
 
