@@ -62,7 +62,7 @@
 </div>
 
 ## Tokenscale Stats
-[![Tokscale Stats](https://tokscale.ai/api/embed/Gioxaa/svg?view=3d)](https://tokscale.ai/u/Gioxaa)
+[![Tokscale Stats](https://tokscale.ai/api/embed/Gioxaa/svg?template=graph&tokens=full&cost=compact)](https://tokscale.ai/u/Gioxaa)
 
 <br>
 
